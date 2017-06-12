@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal" >
+
+ <ImageView
+        android:id="@+id/activity_forbidden_disconnect"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:adjustViewBounds="false"
+        android:src="@drawable/disconnect" />
+
+ <TextView
+     android:id="@+id/textView1"
+     style="@style/EditTextStyle"
+     android:layout_width="wrap_content"
+     android:layout_height="100dp"
+     android:text="Ihr Endgerät ist nicht für die Nutzung dieser Applikation freigegeben!" />
+ </LinearLayout>
+
+  <TextView
+      android:id="@+id/textView2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Bitte senden Sie über den nachfolgenden Link die IMEI-Nummer ihres Endgeräts.\nDie IMEI-Nummer können Sie entweder über die Einstellungen oder per Kurzwahl *#06# auslesen!"
+      android:textAppearance="?android:attr/textAppearanceMedium" />
+
+  <TextView
+      android:id="@+id/forbidden_activity_mail"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Mail"
+      android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

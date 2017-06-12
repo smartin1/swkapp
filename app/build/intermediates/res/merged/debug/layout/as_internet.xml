@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/viewbar"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:background="#ffffff" />
+
+    <EditText
+        android:id="@+id/as_internet_cpe_ET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:layout_below="@+id/as_internet_cpe_TV"
+        android:layout_toLeftOf="@+id/as_internet_cpe_"
+        android:layout_toRightOf="@+id/as_internet_cpe_IV"
+        android:ems="10" >
+    </EditText>
+
+    <View
+        android:id="@+id/View03"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_alignBottom="@+id/as_internet_cpe_ET"
+        android:layout_alignParentLeft="@+id/as_internet_cpe_IV"
+        android:background="#ffffff" />
+
+    <ImageView
+        android:id="@+id/as_internet_cpe_IV"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/viewbar"
+        android:src="@drawable/fritzbox" />
+
+    <TextView
+        android:id="@+id/as_internet_cpe_TV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/as_internet_cpe_ET"
+        android:layout_below="@+id/viewbar"
+        android:text="@string/as_internet_cpe"
+         />
+
+    <EditText
+        android:id="@+id/as_internet_cpe_"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/as_internet_cpe_ET"
+        android:layout_alignBottom="@+id/as_internet_cpe_ET"
+        android:layout_alignParentRight="true"
+        android:ems="10" 
+        android:padding="2dp"/>
+
+    <TextView
+        android:id="@+id/as_internet_cpesn_TV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/as_internet_cpe_"
+        android:layout_alignLeft="@+id/as_internet_cpe_"
+        android:text="@string/as_internet_sn"
+         />
+
+    <View
+        android:id="@+id/View01"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_below="@+id/as_internet_cpe_IV"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/View01"
+        android:text="@string/as_internet_dsloptionen"
+         />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/View02"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/checkBox1"
+        android:layout_toRightOf="@+id/checkBox1"
+        android:button="@null"
+        android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+        android:text="@string/as_internet_rueckfall" />
+
+    <View
+        android:id="@+id/View02"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_alignBottom="@+id/checkBox1"
+        android:layout_alignParentLeft="true"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/View02"
+        android:text="@string/as_internet_einrichtung_acs"
+         />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView3"
+        android:button="@null"
+        android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+        android:text="@string/as_internet_einrichtung_acs_konfig" />
+
+    <View
+        android:id="@+id/View04"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_alignBottom="@+id/checkBox3"
+        android:layout_alignParentLeft="true"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/as_internet_TV_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/as_internet_cpe_ET"
+        android:text="@string/as_internet_einrichtung_download"
+        android:layout_toRightOf="@+id/as_internet_cpe_IV" />
+
+    <TextView
+        android:id="@+id/as_internet_TV_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/as_internet_TV_download"
+        android:layout_alignBottom="@+id/as_internet_TV_download"
+        android:text="@string/as_internet_einrichtung_upload"
+        android:layout_toRightOf="@+id/as_internet_cpe_ET" />
+
+    <EditText
+        android:id="@+id/as_internet_ET_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/as_internet_TV_download"
+        android:layout_toLeftOf="@+id/as_internet_ET_upload"
+        android:layout_toRightOf="@+id/as_internet_cpe_IV"
+        android:ems="10"
+        android:padding="2dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/as_internet_ET_upload"
+        android:padding="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/as_internet_ET_download"
+        android:layout_alignBottom="@+id/as_internet_ET_download"
+        android:layout_alignParentRight="true"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/ftu_Label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/as_internet_TV_download"
+        android:layout_below="@+id/as_internet_ET_download"
+        android:text="FTU:" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/View04"
+        android:text="@string/as_internet_speedtest" />
+
+    <Button
+        android:id="@+id/as_internet_BT_speedtest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView4"
+        android:text="@string/as_internet_BT_speedtest" />
+
+    <ProgressBar
+        android:id="@+id/as_internet_barDown"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/as_internet_cpesn_TV"
+        android:layout_alignTop="@+id/as_internet_BT_speedtest"
+        android:layout_toRightOf="@+id/as_internet_BT_speedtest" />
+
+    <ProgressBar
+        android:id="@+id/as_internet_BarUp"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/as_internet_BT_speedtest"
+        android:layout_alignRight="@+id/as_internet_barDown"
+        android:layout_toRightOf="@+id/as_internet_BT_speedtest" />
+
+    <EditText
+        android:id="@+id/as_internet_speedtest_ED"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/as_internet_BarUp"
+        android:layout_toRightOf="@+id/as_internet_TV_upload"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/as_internet_speedtestnet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_internet_BT_speedtest"
+        android:text="Button" />
+
+    <EditText
+        android:id="@+id/as_internet_ftu_ETf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_alignLeft="@+id/as_internet_ET_download"
+        android:layout_alignRight="@+id/as_internet_ET_download"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/as_internet_ftu_Button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/View01"
+        android:layout_alignLeft="@+id/as_internet_ET_upload"
+        android:text="Scan" />
+
+    <Button
+        android:id="@+id/as_internet_sendFTU_BT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/as_internet_ftu_Button"
+        android:layout_toRightOf="@+id/as_internet_ftu_Button"
+        android:text="FTU übertragen" />
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/as_internet_cpe_TV"
+        android:layout_below="@+id/textView2"
+        android:button="@null"
+        android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+        android:text="@string/as_internet_fastpath" />
+
+</RelativeLayout>

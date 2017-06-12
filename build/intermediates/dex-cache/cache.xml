@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Software\Programme\Java\luna\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_c872d9fe4931d209068b57cf04f36bc8c3ff23a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3_b6d5e460686340bded631c3a16367f84e43e1358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1_2ee1b8a62d52b4977651b899d80009c4e9374104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\.android\build-cache\d80f87307a001bc4b5d2a4a336858f52893d43e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\classes_20f232c8b6a8fdfff9c2b068f5376f9db08e3ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\gson-2.3.1_bc8e36fccaebc334f18436f858a8d83e4078473c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\activation_9961a5bed1f33753c9e84beeb51149c78e9c31ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\volley_d6854b15c527868dfbb42669ec1e4aeb00055389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\.android\build-cache\baf755b7f4d7b3c5b1bdeff12801e378c18627b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\classes_ee690331123e7664600563eafa28329d1bb2bb78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\commons-net-examples-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a17df39d99df74e21f0c9c3d8fd53c69da0b23ba">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\commons-net-examples-3.3_4fcfe268018cfaa568854812724f57d7aead9ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\RootTools_4c35edbe932420d48985197c0bea85bc43a657c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\mail_f9e773306c83ab4fcac7c0ab7d6bcd6d2d2c3111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\jackson-core-2.4.0-rc3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43ab1ee85096a0c39ce2e821021e2fa40af18cdf">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.0-rc3_4b371643ebd14012369ba305c0042647c2e2366f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\commons-net-3.3_275e83e30e2c2138fb42fef6fb6b51642621e050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\dropbox-core-sdk-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ef429fd609827126cf5b430dfb3ad832a70d9e">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\dropbox-core-sdk-1.7.7_309b13037b04cffae81feb6895b8f418f538d902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\.android\build-cache\ada2b24f33e7405f26f8889ffce59be0d26850f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\classes_e6078cb1e15aaa5bb8a880de7e08b7bfe2209c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\StudioProjects\SWK\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\additionnal_36089b7527ffab5af1856a54d90a927a6287147b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\endres\.android\build-cache\baf755b7f4d7b3c5b1bdeff12801e378c18627b2\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\endres\StudioProjects\SWK\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_3f226c6212e98db499e19ad2923c0e6981e94ab1.jar" />
+    </item>
+
+</items>

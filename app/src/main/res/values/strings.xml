@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SWK-Applikation-V1</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string-array name="drawer_titles">
+        <item>Auswahlfenster</item>
+        <item>Adressen</item>
+        <item>Bemerkung</item>
+        <item>Kamera</item>
+        <item>Browser</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_item_one">ItemOne</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="title_activity_selection">Kundenauswahl:</string>
+
+    <!-- signature -->
+    <string name="signature_cancel">Zurück</string>
+    <string name="signature_clear">Löschen</string>
+    <string name="signature_save">Speichern</string>
+    <string name="signature_please">Bitte unterschreiben Sie hier:</string>
+    <string name="signature_date">Datum:</string>
+    <string name="external_dir">GetSignature</string>
+    <string name="title_activity_caputer_signature">CaputerSignatureActivity</string>
+
+    <!-- agreement -->
+    <string name="agreement_signature">Unterschrift</string>
+    <string name="title_activity_adress_">Adresse Activity</string>
+    <string name="title_activity_tab1">Tab1Activity</string>
+
+    <!-- startup -->
+    <string name="startup_error">Fehler, konnte keinen Ergebnis ermitteln!</string>
+    <string name="action_save">TEST!!!!!"§$!"</string>
+    <!-- splashscreen -->
+    <string name="title_activity_splashscreen">SWK_Application_V1</string>
+
+    <!-- Login -->
+    <string name="title_activity_login">Willkommen</string>
+    <string name="prompt_email">ZFA-Nutzername</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Ungültige Email-Adresse</string>
+    <string name="error_invalid_password">Das Passwort ist zu kurz</string>
+    <string name="error_incorrect_password">Ungültiges Passwort</string>
+    <string name="error_field_required">Dieses Feld ist erforderlich</string>
+
+    <!-- Selection -->
+    <string name="about">Über</string>
+    <string name="help">Willkommen</string>
+    <string name="title_activity_agreement">AgreementActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Standort -->
+    <string name="detailansicht">Detailansicht</string>
+    <string name="vertraege">Verträge:</string>
+    <string name="plzort">PLZ / Ort:</string>
+    <string name="strasse">Straße:</string>
+    <string name="mailfax">E-Mail / Telefax:</string>
+    <string name="fonmobil">Telefon / Mobil:</string>
+    <string name="name">Name:</string>
+    <string name="anredetitel">Anrede / Titel:</string>
+    <string name="art">Kundenart:</string>
+    <string name="title_activity_inbetriebnahme">InbetriebnahmeActivity</string>
+    <string name="title_activity_test">Test</string>
+
+    <!-- as_TEL -->
+    <string name="as_tel_tarif">GFIT INFORMATION --> SIP ACCOUNT etc</string>
+
+    <!-- as_internet -->
+    <string name="as_internet_cpe">CPE Typ:</string>
+    <string name="as_internet_sn">CPE S/N:</string>
+    <string name="as_internet_dsloptionen">DSL-Optionen:</string>
+    <string name="as_internet_fastpath">Fastpath für DSL:</string>
+    <string name="as_internet_rueckfall">Rückfall auf ADSL:</string>
+    <string name="as_internet_einrichtung_acs">Einrichtung ACS:</string>
+    <string name="as_internet_einrichtung_acs_konfig">Automatische CPE und Switchport Konfiguration:</string>
+    <string name="as_internet_einrichtung_download">Downloadrate:</string>
+    <string name="as_internet_einrichtung_upload">Uploadrate:</string>
+    <string name="as_internet_speedtest">Speedtest:</string>
+     <string name="as_internet_BT_speedtest">Start</string>
+
+</resources>

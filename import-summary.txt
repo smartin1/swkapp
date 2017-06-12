@@ -1,0 +1,382 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Neuer Ordner\
+* Neuer Ordner\AndroidManifest.xml
+* Neuer Ordner\R.txt
+* Neuer Ordner\classes\
+* Neuer Ordner\classes\android\
+* Neuer Ordner\classes\android\support\
+* Neuer Ordner\classes\android\support\v7\
+* Neuer Ordner\classes\android\support\v7\appcompat\
+* Neuer Ordner\classes\android\support\v7\appcompat\R$anim.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$attr.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$bool.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$color.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$dimen.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$drawable.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$id.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$integer.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$layout.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$string.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$style.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R$styleable.class
+* Neuer Ordner\classes\android\support\v7\appcompat\R.class
+* Neuer Ordner\classes\swk\
+* Neuer Ordner\classes\swk\application\
+* Neuer Ordner\classes\swk\application\activities\
+* Neuer Ordner\classes\swk\application\activities\AgreementActivity$1.class
+* Neuer Ordner\classes\swk\application\activities\AgreementActivity.class
+* Neuer Ordner\classes\swk\application\activities\AssignmentActivity$1.class
+* Neuer Ordner\classes\swk\application\activities\AssignmentActivity$2$1.class
+* Neuer Ordner\classes\swk\application\activities\AssignmentActivity$2.class
+* Neuer Ordner\classes\swk\application\activities\AssignmentActivity.class
+* Neuer Ordner\classes\swk\application\activities\BuildConfig.class
+* Neuer Ordner\classes\swk\application\activities\DetailActivity$DrawerItemClickListener.class
+* Neuer Ordner\classes\swk\application\activities\DetailActivity.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$1.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$2.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$3.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$4.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$5.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$6.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$ProfileQuery.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity$UserLoginTask.class
+* Neuer Ordner\classes\swk\application\activities\LoginActivity.class
+* Neuer Ordner\classes\swk\application\activities\R$anim.class
+* Neuer Ordner\classes\swk\application\activities\R$array.class
+* Neuer Ordner\classes\swk\application\activities\R$attr.class
+* Neuer Ordner\classes\swk\application\activities\R$bool.class
+* Neuer Ordner\classes\swk\application\activities\R$color.class
+* Neuer Ordner\classes\swk\application\activities\R$dimen.class
+* Neuer Ordner\classes\swk\application\activities\R$drawable.class
+* Neuer Ordner\classes\swk\application\activities\R$id.class
+* Neuer Ordner\classes\swk\application\activities\R$integer.class
+* Neuer Ordner\classes\swk\application\activities\R$layout.class
+* Neuer Ordner\classes\swk\application\activities\R$menu.class
+* Neuer Ordner\classes\swk\application\activities\R$string.class
+* Neuer Ordner\classes\swk\application\activities\R$style.class
+* Neuer Ordner\classes\swk\application\activities\R$styleable.class
+* Neuer Ordner\classes\swk\application\activities\R.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity$1.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity$2.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity$3.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity$4.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity$5.class
+* Neuer Ordner\classes\swk\application\activities\SelectionActivity.class
+* Neuer Ordner\classes\swk\application\activities\SplashScreen$1.class
+* Neuer Ordner\classes\swk\application\activities\SplashScreen.class
+* Neuer Ordner\classes\swk\application\activities\VertragActivity$1.class
+* Neuer Ordner\classes\swk\application\activities\VertragActivity.class
+* Neuer Ordner\classes\swk\application\database\
+* Neuer Ordner\classes\swk\application\database\Auftrag.class
+* Neuer Ordner\classes\swk\application\database\DatabaseHandler.class
+* Neuer Ordner\classes\swk\application\database\Kunde.class
+* Neuer Ordner\classes\swk\application\database\Standort.class
+* Neuer Ordner\classes\swk\application\database\Vertrag.class
+* Neuer Ordner\classes\swk\application\fragments\
+* Neuer Ordner\classes\swk\application\fragments\AgreementFragmentN.class
+* Neuer Ordner\classes\swk\application\fragments\CameraFragment$ImageAdapter.class
+* Neuer Ordner\classes\swk\application\fragments\CameraFragment.class
+* Neuer Ordner\classes\swk\application\fragments\QRScanner.class
+* Neuer Ordner\classes\swk\application\fragments\StandortTabLogik$SectionsPagerAdapter.class
+* Neuer Ordner\classes\swk\application\fragments\StandortTabLogik.class
+* Neuer Ordner\classes\swk\application\fragments\TabbedStandortFragment.class
+* Neuer Ordner\classes\swk\application\fragments\WebViewFragment.class
+* Neuer Ordner\classes\swk\application\helper\
+* Neuer Ordner\classes\swk\application\helper\AgreementListAdapter.class
+* Neuer Ordner\classes\swk\application\helper\CaptureSignature$1.class
+* Neuer Ordner\classes\swk\application\helper\CaptureSignature$2.class
+* Neuer Ordner\classes\swk\application\helper\CaptureSignature$3.class
+* Neuer Ordner\classes\swk\application\helper\CaptureSignature$signature.class
+* Neuer Ordner\classes\swk\application\helper\CaptureSignature.class
+* Neuer Ordner\classes\swk\application\helper\DownloadUploadFile.class
+* Neuer Ordner\classes\swk\application\helper\ExpandableListAdapter$1$1$1.class
+* Neuer Ordner\classes\swk\application\helper\ExpandableListAdapter$1$1.class
+* Neuer Ordner\classes\swk\application\helper\ExpandableListAdapter$1.class
+* Neuer Ordner\classes\swk\application\helper\ExpandableListAdapter.class
+* Neuer Ordner\classes\swk\application\helper\FragmentIntentIntegrator.class
+* Neuer Ordner\classes\swk\application\helper\FtpHelper.class
+* Neuer Ordner\classes\swk\application\helper\GSONDatabaseHandler.class
+* Neuer Ordner\classes\swk\application\helper\GSONHelper$1.class
+* Neuer Ordner\classes\swk\application\helper\GSONHelper.class
+* Neuer Ordner\classes\swk\application\helper\IntentIntegrator$1.class
+* Neuer Ordner\classes\swk\application\helper\IntentIntegrator.class
+* Neuer Ordner\classes\swk\application\helper\IntentResult.class
+* Neuer Ordner\classes\swk\application\helper\NetworkStateReceiver$NetworkStateReceiverListener.class
+* Neuer Ordner\classes\swk\application\helper\NetworkStateReceiver.class
+* Neuer Ordner\classes\swk\application\helper\SpaceTokenizer.class
+* Neuer Ordner\jarlist.cache
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\android\
+* doc\android\support\
+* doc\android\support\v7\
+* doc\android\support\v7\appcompat\
+* doc\android\support\v7\appcompat\R.anim.html
+* doc\android\support\v7\appcompat\R.attr.html
+* doc\android\support\v7\appcompat\R.bool.html
+* doc\android\support\v7\appcompat\R.color.html
+* doc\android\support\v7\appcompat\R.dimen.html
+* doc\android\support\v7\appcompat\R.drawable.html
+* doc\android\support\v7\appcompat\R.html
+* doc\android\support\v7\appcompat\R.id.html
+* doc\android\support\v7\appcompat\R.integer.html
+* doc\android\support\v7\appcompat\R.layout.html
+* doc\android\support\v7\appcompat\R.string.html
+* doc\android\support\v7\appcompat\R.style.html
+* doc\android\support\v7\appcompat\R.styleable.html
+* doc\android\support\v7\appcompat\class-use\
+* doc\android\support\v7\appcompat\class-use\R.anim.html
+* doc\android\support\v7\appcompat\class-use\R.attr.html
+* doc\android\support\v7\appcompat\class-use\R.bool.html
+* doc\android\support\v7\appcompat\class-use\R.color.html
+* doc\android\support\v7\appcompat\class-use\R.dimen.html
+* doc\android\support\v7\appcompat\class-use\R.drawable.html
+* doc\android\support\v7\appcompat\class-use\R.html
+* doc\android\support\v7\appcompat\class-use\R.id.html
+* doc\android\support\v7\appcompat\class-use\R.integer.html
+* doc\android\support\v7\appcompat\class-use\R.layout.html
+* doc\android\support\v7\appcompat\class-use\R.string.html
+* doc\android\support\v7\appcompat\class-use\R.style.html
+* doc\android\support\v7\appcompat\class-use\R.styleable.html
+* doc\android\support\v7\appcompat\package-frame.html
+* doc\android\support\v7\appcompat\package-summary.html
+* doc\android\support\v7\appcompat\package-tree.html
+* doc\android\support\v7\appcompat\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-19.html
+* doc\index-files\index-2.html
+* doc\index-files\index-20.html
+* doc\index-files\index-21.html
+* doc\index-files\index-22.html
+* doc\index-files\index-23.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\script.js
+* doc\stylesheet.css
+* doc\swk\
+* doc\swk\application\
+* doc\swk\application\activities\
+* doc\swk\application\activities\AgreementActivity.html
+* doc\swk\application\activities\AssignmentActivity.html
+* doc\swk\application\activities\BuildConfig.html
+* doc\swk\application\activities\DetailActivity.html
+* doc\swk\application\activities\LoginActivity.UserLoginTask.html
+* doc\swk\application\activities\LoginActivity.html
+* doc\swk\application\activities\R.anim.html
+* doc\swk\application\activities\R.array.html
+* doc\swk\application\activities\R.attr.html
+* doc\swk\application\activities\R.bool.html
+* doc\swk\application\activities\R.color.html
+* doc\swk\application\activities\R.dimen.html
+* doc\swk\application\activities\R.drawable.html
+* doc\swk\application\activities\R.html
+* doc\swk\application\activities\R.id.html
+* doc\swk\application\activities\R.integer.html
+* doc\swk\application\activities\R.layout.html
+* doc\swk\application\activities\R.menu.html
+* doc\swk\application\activities\R.string.html
+* doc\swk\application\activities\R.style.html
+* doc\swk\application\activities\R.styleable.html
+* doc\swk\application\activities\SelectionActivity.html
+* doc\swk\application\activities\SplashScreen.html
+* doc\swk\application\activities\class-use\
+* doc\swk\application\activities\class-use\AgreementActivity.html
+* doc\swk\application\activities\class-use\AssignmentActivity.html
+* doc\swk\application\activities\class-use\BuildConfig.html
+* doc\swk\application\activities\class-use\DetailActivity.html
+* doc\swk\application\activities\class-use\LoginActivity.UserLoginTask.html
+* doc\swk\application\activities\class-use\LoginActivity.html
+* doc\swk\application\activities\class-use\R.anim.html
+* doc\swk\application\activities\class-use\R.array.html
+* doc\swk\application\activities\class-use\R.attr.html
+* doc\swk\application\activities\class-use\R.bool.html
+* doc\swk\application\activities\class-use\R.color.html
+* doc\swk\application\activities\class-use\R.dimen.html
+* doc\swk\application\activities\class-use\R.drawable.html
+* doc\swk\application\activities\class-use\R.html
+* doc\swk\application\activities\class-use\R.id.html
+* doc\swk\application\activities\class-use\R.integer.html
+* doc\swk\application\activities\class-use\R.layout.html
+* doc\swk\application\activities\class-use\R.menu.html
+* doc\swk\application\activities\class-use\R.string.html
+* doc\swk\application\activities\class-use\R.style.html
+* doc\swk\application\activities\class-use\R.styleable.html
+* doc\swk\application\activities\class-use\SelectionActivity.html
+* doc\swk\application\activities\class-use\SplashScreen.html
+* doc\swk\application\activities\package-frame.html
+* doc\swk\application\activities\package-summary.html
+* doc\swk\application\activities\package-tree.html
+* doc\swk\application\activities\package-use.html
+* doc\swk\application\database\
+* doc\swk\application\database\Auftrag.html
+* doc\swk\application\database\DatabaseHandler.html
+* doc\swk\application\database\Kunde.html
+* doc\swk\application\database\Standort.html
+* doc\swk\application\database\Vertrag.html
+* doc\swk\application\database\class-use\
+* doc\swk\application\database\class-use\Auftrag.html
+* doc\swk\application\database\class-use\DatabaseHandler.html
+* doc\swk\application\database\class-use\Kunde.html
+* doc\swk\application\database\class-use\Standort.html
+* doc\swk\application\database\class-use\Vertrag.html
+* doc\swk\application\database\package-frame.html
+* doc\swk\application\database\package-summary.html
+* doc\swk\application\database\package-tree.html
+* doc\swk\application\database\package-use.html
+* doc\swk\application\fragments\
+* doc\swk\application\fragments\AgreementFragmentN.html
+* doc\swk\application\fragments\CameraFragment.ImageAdapter.html
+* doc\swk\application\fragments\CameraFragment.html
+* doc\swk\application\fragments\QRScanner.html
+* doc\swk\application\fragments\StandortTabLogik.SectionsPagerAdapter.html
+* doc\swk\application\fragments\StandortTabLogik.html
+* doc\swk\application\fragments\TabbedStandortFragment.html
+* doc\swk\application\fragments\WebViewFragment.html
+* doc\swk\application\fragments\class-use\
+* doc\swk\application\fragments\class-use\AgreementFragmentN.html
+* doc\swk\application\fragments\class-use\CameraFragment.ImageAdapter.html
+* doc\swk\application\fragments\class-use\CameraFragment.html
+* doc\swk\application\fragments\class-use\QRScanner.html
+* doc\swk\application\fragments\class-use\StandortTabLogik.SectionsPagerAdapter.html
+* doc\swk\application\fragments\class-use\StandortTabLogik.html
+* doc\swk\application\fragments\class-use\TabbedStandortFragment.html
+* doc\swk\application\fragments\class-use\WebViewFragment.html
+* doc\swk\application\fragments\package-frame.html
+* doc\swk\application\fragments\package-summary.html
+* doc\swk\application\fragments\package-tree.html
+* doc\swk\application\fragments\package-use.html
+* doc\swk\application\helper\
+* doc\swk\application\helper\AgreementListAdapter.html
+* doc\swk\application\helper\CaptureSignature.html
+* doc\swk\application\helper\CaptureSignature.signature.html
+* doc\swk\application\helper\FragmentIntentIntegrator.html
+* doc\swk\application\helper\GSONDatabaseHandler.html
+* doc\swk\application\helper\GSONHelper.html
+* doc\swk\application\helper\IntentIntegrator.html
+* doc\swk\application\helper\IntentResult.html
+* doc\swk\application\helper\NetworkStateReceiver.NetworkStateReceiverListener.html
+* doc\swk\application\helper\NetworkStateReceiver.html
+* doc\swk\application\helper\SpaceTokenizer.html
+* doc\swk\application\helper\class-use\
+* doc\swk\application\helper\class-use\AgreementListAdapter.html
+* doc\swk\application\helper\class-use\CaptureSignature.html
+* doc\swk\application\helper\class-use\CaptureSignature.signature.html
+* doc\swk\application\helper\class-use\FragmentIntentIntegrator.html
+* doc\swk\application\helper\class-use\GSONDatabaseHandler.html
+* doc\swk\application\helper\class-use\GSONHelper.html
+* doc\swk\application\helper\class-use\IntentIntegrator.html
+* doc\swk\application\helper\class-use\IntentResult.html
+* doc\swk\application\helper\class-use\NetworkStateReceiver.NetworkStateReceiverListener.html
+* doc\swk\application\helper\class-use\NetworkStateReceiver.html
+* doc\swk\application\helper\class-use\SpaceTokenizer.html
+* doc\swk\application\helper\package-frame.html
+* doc\swk\application\helper\package-summary.html
+* doc\swk\application\helper\package-tree.html
+* doc\swk\application\helper\package-use.html
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.3.1.jar => com.google.code.gson:gson:2.3.1
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:21.0.3]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\activation.jar => app\libs\activation.jar
+* libs\additionnal.jar => app\libs\additionnal.jar
+* libs\armeabi-v7a\libdatabase_sqlcipher.so => app\src\main\jniLibs\armeabi-v7a\libdatabase_sqlcipher.so
+* libs\armeabi-v7a\libsqlcipher_android.so => app\src\main\jniLibs\armeabi-v7a\libsqlcipher_android.so
+* libs\armeabi-v7a\libstlport_shared.so => app\src\main\jniLibs\armeabi-v7a\libstlport_shared.so
+* libs\armeabi\libdatabase_sqlcipher.so => app\src\main\jniLibs\armeabi\libdatabase_sqlcipher.so
+* libs\armeabi\libsqlcipher_android.so => app\src\main\jniLibs\armeabi\libsqlcipher_android.so
+* libs\armeabi\libstlport_shared.so => app\src\main\jniLibs\armeabi\libstlport_shared.so
+* libs\commons-net-3.3-sources.jar => app\libs\commons-net-3.3-sources.jar
+* libs\commons-net-3.3.jar => app\libs\commons-net-3.3.jar
+* libs\commons-net-examples-3.3.jar => app\libs\commons-net-examples-3.3.jar
+* libs\dropbox-android-sdk-1.6.3.jar => app\libs\dropbox-android-sdk-1.6.3.jar
+* libs\dropbox-core-sdk-1.7.7.jar => app\libs\dropbox-core-sdk-1.7.7.jar
+* libs\jackson-core-2.4.0-rc3.jar => app\libs\jackson-core-2.4.0-rc3.jar
+* libs\json-simple-1.1.1.jar => app\libs\json-simple-1.1.1.jar
+* libs\mail.jar => app\libs\mail.jar
+* libs\sqlcipher-javadoc.jar => app\libs\sqlcipher-javadoc.jar
+* libs\sqlcipher.jar => app\libs\sqlcipher.jar
+* libs\volley.jar => app\libs\volley.jar
+* libs\x86\libdatabase_sqlcipher.so => app\src\main\jniLibs\x86\libdatabase_sqlcipher.so
+* libs\x86\libsqlcipher_android.so => app\src\main\jniLibs\x86\libsqlcipher_android.so
+* libs\x86\libstlport_shared.so => app\src\main\jniLibs\x86\libstlport_shared.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

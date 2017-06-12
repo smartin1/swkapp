@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="swk.application.activities.SelectionActivity" >
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:columnCount="1" >
+
+        <TextView
+            style="@style/CodeFont"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="0"
+            android:text="Kundennummer:"
+            android:textSize="20sp" />
+
+        <MultiAutoCompleteTextView
+            android:id="@+id/Selection_CustomerNr"
+            android:layout_width="match_parent"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="1"
+            android:ems="10"
+            android:inputType="number"
+            android:text="" >
+
+            <requestFocus />
+        </MultiAutoCompleteTextView>
+
+               <TextView
+                   style="@style/CodeFont"
+                   android:layout_column="0"
+                   android:layout_gravity="left|top"
+                   android:layout_row="4"
+                   android:text="FTU-Nummer"
+                   android:textSize="20sp" />
+               
+        <MultiAutoCompleteTextView
+            android:id="@+id/Selection_FTUNr"
+            android:layout_width="match_parent"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="5"
+            android:ems="10"
+            android:text="" >
+  
+        </MultiAutoCompleteTextView>
+
+        <Button
+            android:id="@+id/Selection_FTUNrButton"
+            android:layout_width="match_parent"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="6"
+            android:text="FTU-Scan" />
+
+    </GridLayout>
+    
+</RelativeLayout>

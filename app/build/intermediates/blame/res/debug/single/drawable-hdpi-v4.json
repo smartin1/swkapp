@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_background.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\drawable-hdpi\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_row_selector.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\drawable-hdpi\\list_row_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_row_bg.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\drawable-hdpi\\list_row_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_row_bg_hover.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\drawable-hdpi\\list_row_bg_hover.xml"
+    }
+]

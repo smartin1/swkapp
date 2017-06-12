@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_row_selector"
+    android:padding="8dp" >
+
+    <!-- Thumbnail Image -->
+
+    <ImageView
+        android:id="@+id/row_imageview"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="20dip" />
+
+    <!-- Movie Title -->
+    <TextView
+        android:id="@+id/row_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/row_imageview"
+        android:layout_toRightOf="@+id/row_imageview"
+        android:textSize="@dimen/title"
+        android:textStyle="bold" />
+
+    <!-- Rating -->
+
+    <TextView
+        android:id="@+id/row_auftrags"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/row_title"
+        android:layout_below="@id/row_title"
+        android:layout_marginTop="1dip"
+        android:textSize="@dimen/rating" />
+    
+    <!-- Genre -->
+    <TextView
+        android:id="@+id/row_wfpath"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/row_auftrags"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/row_imageview"
+        android:textColor="@color/genre"
+        android:textSize="@dimen/genre" />
+
+    <!-- Release Year -->
+    <TextView
+        android:id="@+id/row_auftragsnummer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/year"
+        android:textSize="@dimen/year" />
+
+</RelativeLayout>

@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selection.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vertrag.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_vertrag.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_one.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_item_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forbidden.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_forbidden.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qr.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\fragment_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\agreement_activity.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\agreement_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\as_tv.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\as_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabbed.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_webview.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inbetriebnahme.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_inbetriebnahme.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\helper_signature.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\helper_signature.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\as_tel.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\as_tel.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabbed_standort.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\fragment_tabbed_standort.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\endres\\.android\\build-cache\\d80f87307a001bc4b5d2a4a336858f52893d43e3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_agreement_n.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\fragment_agreement_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\as_internet.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\layout\\as_internet.xml"
+    }
+]

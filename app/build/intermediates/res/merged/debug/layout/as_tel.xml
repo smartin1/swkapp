@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/as_tel_tv_sipuser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/viewbar"
+        android:text="SIP-User:"
+        android:layout_alignParentRight="true" />
+
+
+    <View
+        android:id="@+id/viewbar"
+        android:layout_width="5dp"
+        android:layout_height="fill_parent"
+        android:background="#ff0fff" />
+
+    <EditText
+        android:id="@+id/as_tel_sipuser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_tv_sipuser"
+        android:layout_toRightOf="@+id/viewbar"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/as_tel_tv_block"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_sipuser"
+        android:layout_toRightOf="@+id/viewbar"
+        android:text="Rufnummernblock von - bis:" />
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_below="@+id/as_tel_tv_block"
+        android:id="@+id/linearLayout">
+
+        <EditText
+            android:id="@+id/as_tel_block_von"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/as_tel_block_bis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/as_tel_tv_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/linearLayout"
+        android:layout_toRightOf="@+id/viewbar"
+        android:text="SIP-Pass:" />
+
+    <EditText
+        android:id="@+id/as_tel_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_tv_pass"
+        android:layout_toRightOf="@+id/viewbar"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/as_tel_tv_realm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_pass"
+        android:layout_toRightOf="@+id/viewbar"
+        android:text="Realm:" />
+
+    <EditText
+        android:id="@+id/as_tel_realm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_tv_realm"
+        android:layout_toRightOf="@+id/viewbar"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/as_tel_tv_rufnummer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_realm"
+        android:layout_toRightOf="@+id/viewbar"
+        android:text="Rufnummer:" />
+
+    <EditText
+        android:id="@+id/as_tel_rufnummer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/as_tel_tv_rufnummer"
+        android:layout_toRightOf="@+id/viewbar"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+</RelativeLayout>

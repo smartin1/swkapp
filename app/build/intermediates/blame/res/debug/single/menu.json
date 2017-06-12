@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\selection.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\inbetriebnahme.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\inbetriebnahme.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\agreement.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\agreement.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tabbed.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\endres\\StudioProjects\\SWK\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]

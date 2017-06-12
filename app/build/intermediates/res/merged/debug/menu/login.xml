@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="swk.application.activities.LoginActivity" >
+
+    <item
+        android:id="@+id/login_help"
+        android:icon="@drawable/ic_action_help"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Help"/>
+    <item
+        android:id="@+id/state_connect"
+        android:icon="@drawable/connect"
+        android:showAsAction="ifRoom"
+        android:title="Verbindung zum SWK-Netzwerk"/>
+    <item
+        android:id="@+id/state_disconnect"
+        android:icon="@drawable/disconnect"
+        android:showAsAction="ifRoom"
+        android:title="Keine Verbindung zum SWK-Netzwerk"/>
+
+</menu>
